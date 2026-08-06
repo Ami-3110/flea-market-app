@@ -32,8 +32,8 @@
 1. DockerDesktopアプリを立ち上げる。
 2. リポジトリをクローン  
    ```bash
-   git clone git@github.com:Ami-3110/mock-case1.git
-   cd mock-case1/src
+   git clone git@github.com:Ami-3110/flea-market-app.git
+   cd flea-market-app
    ```
     ※ このプロジェクトはアプリ本体が src/ に配置されています。以降のコマンドはすべて src/ 内で実行してください。
 3. Composerパッケージをインストール
